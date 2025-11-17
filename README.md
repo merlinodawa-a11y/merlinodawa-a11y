@@ -12,6 +12,9 @@ I'm a first year computer science student
 👯 I’m looking to collaborate on creating a portfolio that shows how I think as a beginner programmer, how I improve overtime and my interest in programming and later grow into more advanced projects.
 - 🤔 I’m am seeking for opportunities that will help me expand my technical experience and contribution to real-world projects; opportunities that allow me togain real experience, support a team and continue developing as a learner.
 - 💬 I am still new to this field of computer science but I am determined to keep improving one project at a time. I am currently building small coding projects in C++ and exploring fundamental computing concepts. My goal is to develop strong skills in software development and contribute to meaningful projects tech projects. 
+In the few weeks that I have studied computer science I have acquired both technical and and soft skills, some of them including basic programming logic (conditions, loops, input/output)
+, digital storytelling tools, debugging simple programs and git & github basics ( creating repositories, commits, README files). I also mastered the skill of teamwork, adaptability, creativity and good communication.
+My hobbies include building small coding projects, experimenting with apps and gadgets, solving puzzles or challenges, gaming, digital art and photography.
 - 📫 You can reach me via my email address merlinodawa@gmail.com
 
 - ⚡ Fun fact: I constantly break my codes on purpose just to see what happens. Debugging is basically my second personality. 
