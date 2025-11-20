@@ -15,6 +15,7 @@ I'm a first year computer science student
 In the few weeks that I have studied computer science I have acquired both technical and and soft skills, some of them including basic programming logic (conditions, loops, input/output)
 , digital storytelling tools, debugging simple programs and git & github basics ( creating repositories, commits, README files). I also mastered the skill of teamwork, adaptability, creativity and good communication.
 My hobbies include building small coding projects, experimenting with apps and gadgets, solving puzzles or challenges, gaming, digital art and photography.
+
 - 📫 You can reach me via my email address merlinodawa@gmail.com
 
 - ⚡ Fun fact: I constantly break my codes on purpose just to see what happens. Debugging is basically my second personality. 
