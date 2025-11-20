@@ -3,8 +3,6 @@
 <!--
 **merlinodawa-a11y/merlinodawa-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 Hi, I am Merlin Odawa
 I'm a first year computer science student
 🌱 I’m currently learning C++ programming mainly C++ fundamentals ( variables, data types, loops and conditionals, functions, arrays and vectors, file input/output, basic object-oriented programming) problem solving and algorithmic thinking. I recently made a submission of assignment I was working on on cryptography concepts where I did some decryption and encryption of various key words.
